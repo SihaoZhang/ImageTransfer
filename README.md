@@ -1,0 +1,2 @@
+This is the final project for IntroML completed by Shihao Ju (N17268568) and Sihao Zhang (N16369645).
+This is a style transfer program which is able to abstract the style from one image and apply it to another image.
